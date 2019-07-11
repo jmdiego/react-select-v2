@@ -1,0 +1,8 @@
+{
+	"name": "react-select-v2",
+	"version": "1.0.0",
+	"description": "React select v-2",
+	"dependencies": {
+		"react-select": "2.4.4"
+	}
+}
